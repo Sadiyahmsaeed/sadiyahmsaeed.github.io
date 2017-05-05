@@ -1,0 +1,89 @@
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #83FFBC;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 19px;
+	font-family: 'Love Ya Like A Sister', cursive;
+	color: #FC4CD5;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 18px;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: #FC4CD5;
+}
+
+h4 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: 'Comfortaa', cursive;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: 'Comfortaa', cursive;
+	color: #000000;
+}
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-color: #FEBAC5;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 88%;
+	height: 400px;
+	background-color: #FFFF7A;
+	margin-bottom: 10px;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #8FD9D0;
+	clear: both;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 18px;
+	text-align: center;
+	color: #C98DE9;
+}
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+} 
